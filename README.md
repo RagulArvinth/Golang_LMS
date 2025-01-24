@@ -68,3 +68,6 @@ File Size: 5 MB
 ```
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/d66aaf8d-6059-49a7-babf-346b20353345)
+![image](https://github.com/user-attachments/assets/5e416562-c0d3-461a-86dd-4d90a75324a3)
+
